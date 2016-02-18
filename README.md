@@ -10,3 +10,6 @@ how can I use backspace
 ```
 test code
 ```
+
+OK dit is gelukt nu proberen we lokaal van GIT binnen te trekken
+
