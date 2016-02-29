@@ -20,4 +20,6 @@ Ik ben iets op GIT aan het veranderen
 
 Valla een nieuw test
 
->>>>>>> 9ca12c26e6ab1c65bc57b4507d3f1574339af370
+new branch
+
+>>>>>>> 9ca12c26e6ab1c65bc57b4507d3f15743
